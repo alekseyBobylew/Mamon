@@ -1,4 +1,4 @@
-# One page site.
+# One page site without JS.
 ![git-img-1](https://user-images.githubusercontent.com/91273773/135669405-de03aed7-7673-4fcf-930e-744ab1b12dc9.png)
 
 
